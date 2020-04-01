@@ -1,3 +1,3 @@
-#About
+About
 
-#How to Import
+How to Import
